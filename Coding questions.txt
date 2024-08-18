@@ -4,9 +4,9 @@ Coding Questions:
 3.	Write a program to check Armstrong number?-------------------------
 4.	Write a program to print factorial of given number without using recursion?------------------------------------
 5.	Write a program of Fibonacci series using generators 
-6.	Program to find n’th Fibonacci number
-7.	Write a program to print Fibonacci series without using recursion?
-8.	Write a program to print Fibonacci series using recursion?
+6.	Program to find n’th Fibonacci number----------------------------------------------------
+7.	Write a program to print Fibonacci series without using recursion?----------------------------------------------
+8.	Write a program to print Fibonacci series using recursion?--------------------------------------------------------
 9.	Write a program to check prime number?---------------------------------------------
 10.	Write a program to check palindrome number?-------------------------------------------
 11.	Write a program to print factorial of given number without using recursion?
@@ -26,7 +26,7 @@ Coding Questions:
 25.	Write a program to Check for Balanced Parentheses using Stack
 26.	Write a program to find the node at which the intersection of two singly linked lists begins.
 27.	Write a program to Merge Two sorted Linked List
-28.	Write a program to swap two numbers without using the third variable?
+28.	Write a program to swap two numbers without using the third variable?------------------------------------
 29.	Write a program which takes a variable number of arguments.
 30.	Write a program which takes a sequence of numbers and check if all numbers are unique.
 31.	Write a program for counting the number of every character of a given text file.
